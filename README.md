@@ -13,9 +13,11 @@
 ```
 
 # Demo
-![demo0](demo/0.gif)
-![demo1](demo/1.gif)
-![demo2](demo/2.gif)
+<p align="center">
+  <img src="demo/0.gif" height="400", width="32%">
+  <img src="demo/1.gif" height="376", width="32%">
+  <img src="demo/2.gif" height="400", width="32%">
+</p>
 
 
 # Implementation

@@ -14,9 +14,9 @@
 
 # Demo
 <p>
-  <img src="demo/0.gif" height="400", width="32%">
-  <img src="demo/1.gif" height="376", width="32%">
-  <img src="demo/2.gif" height="400", width="32%">
+  <img src="demo/0.gif" width="32%">
+  <img src="demo/1.gif" width="32%">
+  <img src="demo/2.gif" width="32%">
 </p>
 
 

@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ```
-@article{zhang2026binary,
+@article{zhang2026see,
   title    = {},
   author   = {},
   journal  = {arXiv preprint arXiv:},

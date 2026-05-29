@@ -13,11 +13,14 @@
 ```
 
 # Demo
-<p>
+![demo0](demo/0.gif)
+![demo1](demo/1.gif)
+![demo2](demo/2.gif)
+<!-- <p>
   <img src="demo/0.gif" width="32%">
   <img src="demo/1.gif" width="32%">
   <img src="demo/2.gif" width="32%">
-</p>
+</p> -->
 
 
 # Implementation

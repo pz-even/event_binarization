@@ -5,14 +5,14 @@
 
 ```
 @article{zhang2026see,
-  title    = {See Silhouettes in Motion with Neuromorphic Vision},
-  author   = {Pei Zhang and Shijie Lin and Zhou Ge and Jinpeng Chen and Wei Pu},
-  journal  = {arXiv preprint arXiv:2605.17984},
-  year     = {2026}
+  title   = {See Silhouettes in Motion with Neuromorphic Vision},
+  author  = {Pei Zhang and Shijie Lin and Zhou Ge and Jinpeng Chen and Wei Pu},
+  journal = {arXiv preprint arXiv:2605.17984},
+  year    = {2026}
 }
 ```
 
-# Demo
+## Demo
 ![demo0](demo/0.gif)
 ![demo1](demo/1.gif)
 ![demo2](demo/2.gif)
@@ -23,5 +23,5 @@
 </p> -->
 
 
-# Implementation
+## Implementation
 This work is under review. Code will be released upon publication.

@@ -1,6 +1,6 @@
 # See Silhouettes in Motion with Neuromorphic Vision
 
-[![arXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2605.17984)
+[![arXiv](https://img.shields.io/badge/PDF-arXiv-b31b1b)](https://arxiv.org/abs/2605.17984)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ```
